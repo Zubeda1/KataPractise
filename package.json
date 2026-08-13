@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "jest path test/addBinary.test.ts"
+    "test": "jest path test/ConverArrayToReverseArray.test.ts"
   },
   "devDependencies": {
     "@types/jest": "^29.0.0",
