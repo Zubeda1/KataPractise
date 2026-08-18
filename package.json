@@ -7,7 +7,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "jest path test/ConverArrayToReverseArray.test.ts"
+    "test:wip": "jest path test/splitOddEvenNumbers.test.ts",
+    "test": "jest"
   },
   "devDependencies": {
     "@types/jest": "^29.0.0",
